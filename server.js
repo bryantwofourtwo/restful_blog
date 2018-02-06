@@ -1,5 +1,5 @@
 // a RESTful api example with full crud functionality
-onst express = require('express') 
+const express = require('express') 
 const logger = require('morgan')
 const errorhandler = require('errorhandler')
 const bodyParser = require('body-parser')
